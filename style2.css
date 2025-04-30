@@ -1,0 +1,76 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+table{
+    border-spacing: 0px;
+}
+
+#ProductA, #ProductB, #ProductC {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: #bdcde8;
+    border: 1px solid #a8bbd8;
+    font-weight: 600;
+    padding: 15px 40px 15px 40px;
+}
+
+#durability, #usability {
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: #d8e9fb;
+    border: 2px solid #a7bee1;
+    font-weight: 600;
+    padding: 15px 200px 15px 10px;
+    border-spacing: 0px;
+}
+
+#durabilityA, #durabilityB, #durabilityC, #usabilityA, #usabilityB, #usabilityC {
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border: 1.5px solid #a7bee1;
+    background-color: #d8e9fb;
+    border-spacing: 0px;    
+}
+
+#design, #price {
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: #c7daf7;
+    border: 2px solid #a7bee1;
+    font-weight: 600;
+    padding: 15px 200px 15px 0px;
+    border-spacing: 0px;
+}
+
+#designA, #designB, #designC, #priceA, #priceB, #priceC {
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border: 1.5px solid #a7bee1;
+    background-color: #c7daf7;
+    border-spacing: 0px;
+}
+
+caption{
+    font-weight: bold;
+}
+
+figcaption{
+    caption-side: bottom;
+    font-size: 12px;
+    width: 50%;
+    text-align: center;
+    caption-side: bottom;
+}
+
+a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}

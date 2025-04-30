@@ -1,0 +1,52 @@
+#RS6, #mustang, #JettaGLI, #RSQ8{
+    max-width: 300px;
+    max-height: 300px;
+    height: auto;
+    width: auto;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5faff;
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+th {
+    background-color: #0066cc;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+td {
+    padding: 15px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+img {
+    max-width: 150px;
+    height: auto;
+    border-radius: 8px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
